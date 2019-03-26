@@ -6,5 +6,5 @@ auto: true
 loop: true
 ---
 
-* ![A nice pic of mine](img/404-southpark.jpg)
-* ![Another nice pic of mine](hello_world.jpeg)
+* ![A nice pic of mine](../img/404-southpark.jpg)
+* ![Another nice pic of mine](../img/hello_world.jpeg)
