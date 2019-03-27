@@ -1,7 +1,9 @@
 ---
-layout: post
-title: First post!
-image: /img/hello_world.jpeg
+layout: iframe
+title: My slideshow
+item: 1
+auto: true
+loop: true
 ---
 
 This is my first post, how exciting!
