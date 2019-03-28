@@ -4,6 +4,7 @@ title: My slideshow
 item: 1
 auto: true
 loop: true
+permalink: /slides/my-pics1.html
 ---
 
 This is my first post, how exciting!
