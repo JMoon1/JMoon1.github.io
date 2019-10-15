@@ -25,8 +25,8 @@ description: My cool new website
 navbar-links:
   About Me: "aboutme"
   Tools:
-    - unboxeR: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - unboxeR: "https://jmoon1.github.io/aboutme/"
+    - HeatmapExplorer: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
