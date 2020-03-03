@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jamie Moon. My interests include biology, data science and programming in R.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Background
+Currently I have been working at Pacific Northwest National Laboratory as a Post-Bac Research Associate for a proteomics data science group.
 
-### my history
+I obtained a B.A. in Biology from San Francisco State University. It was there, that I discovered my love for bioinformatics and programming. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

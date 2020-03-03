@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: BioinforMagicks
+title: Jamie Moon
 
 # Short description of your site
 description: My cool new website
@@ -23,6 +23,7 @@ description: My cool new website
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "https://jmoon1.github.io/"
   About Me: "aboutme"
   Tools:
     - unboxeR: "https://jmoon1.github.io/aboutme/"
@@ -79,7 +80,7 @@ social-network-links:
 #  google-plus: +DeanAttali
   linkedin: "jamie-moon-050463133"
 #  xing: yourname
-  stackoverflow: "8436647/j-moon?tab=profile"
+#  stackoverflow: "8436647/j-moon?tab=profile"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -91,8 +92,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+#  twitter: true
+#  facebook: true
   google: false
   linkedin: true
 
