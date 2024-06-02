@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jmoon1.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -170,7 +170,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "blog"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
